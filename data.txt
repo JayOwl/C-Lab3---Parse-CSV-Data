@@ -1,0 +1,5 @@
+Bob,Newhart,89
+Tim,Conway,84
+Louis,CK,51
+Lewis,Black,70
+Jerry,Seinfeld,64
